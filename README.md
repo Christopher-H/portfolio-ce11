@@ -1,2 +1,5 @@
 # portfolio-ce11
-This is my CE11 portfolio 
+
+This is a test! 
+
+Im learning git-hub again!
